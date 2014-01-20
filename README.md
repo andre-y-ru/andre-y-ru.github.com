@@ -1,4 +1,4 @@
 andre-y-ru.github.com
 =====================
 
-blogcat.
+blogcat. Сайт для меня и знакомых.
