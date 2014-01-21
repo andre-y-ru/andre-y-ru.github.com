@@ -5,5 +5,6 @@ blogcat. Сайт для меня и знакомых.
 
 Git repository
 =====================
-https://github.com/andre-y-ru/andre-y-ru.github.com.git
-https://twitter.com/@andre_y_ru
+<p>https://github.com/andre-y-ru/andre-y-ru.github.com.git</p>
+
+<p>https://twitter.com/@andre_y_ru</p>
