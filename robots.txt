@@ -1,0 +1,10 @@
+﻿#Поисковой робот
+User-agent: Yandex
+#Запрешённые дериктории для индексирования
+Disallow: /js/
+Disallow: /css/
+Disallow: /images/
+#Основной хост, зеркало
+Host: 
+#Страници для индексирования роботом
+Sitemap: http://.com
