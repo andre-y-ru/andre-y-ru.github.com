@@ -1,10 +1,11 @@
-﻿#Поисковой робот
+#Поисковой робот
 User-agent: Yandex
 #Запрешённые дериктории для индексирования
-Disallow: /js/
-Disallow: /css/
-Disallow: /images/
+Disallow: /assets/
+Disallow: /dist/
+Disallow: /grunt/
+Disallow: /img/
 #Основной хост, зеркало
-Host: 
+Host: andre-y-ru.github.io
 #Страници для индексирования роботом
-Sitemap: http://.com
+Sitemap: http://andre-y-ru.bithub.io
