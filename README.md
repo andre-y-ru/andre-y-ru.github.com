@@ -1,4 +1,4 @@
-andre-y-ru.github.com
+Blogcat and Sync
 =====================
 
-blogcat. Сайт для меня и знакомых.
+Сайт для меня и знакомых. 
