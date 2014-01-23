@@ -8,4 +8,6 @@ Disallow: /img/
 #Основной хост, зеркало
 Host: andre-y-ru.github.io
 #Страници для индексирования роботом
-Sitemap: http://andre-y-ru.bithub.io
+Sitemap: http://andre-y-ru.github.io/index.html
+Sitemap: http://andre-y-ru.github.io/archive.html
+Sitemap: http://andre-y-ru.github.io/css.html
