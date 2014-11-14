@@ -1,6 +1,7 @@
 ﻿#Поисковой робот
 User-agent: Yandex
 #Запрешённые дериктории для индексирования
+Disallow: /.git/
 Disallow: /assets/
 Disallow: /dist/
 Disallow: /grunt/
@@ -13,3 +14,5 @@ Sitemap: http://andre-y-ru.github.io/archive.html
 Sitemap: http://andre-y-ru.github.io/css.html
 Sitemap: http://andre-y-ru.github.io/code.html
 Sitemap: http://andre-y-ru.github.io/pege_dragon.html
+Sitemap: http://andre-y-ru.github.io/elder_scrolls.html
+Sitemap: http://andre-y-ru.github.io/my_logos.html
