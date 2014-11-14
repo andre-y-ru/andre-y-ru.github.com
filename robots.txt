@@ -1,0 +1,15 @@
+﻿#Поисковой робот
+User-agent: Yandex
+#Запрешённые дериктории для индексирования
+Disallow: /assets/
+Disallow: /dist/
+Disallow: /grunt/
+Disallow: /img/
+#Основной хост, зеркало
+Host: andre-y-ru.github.io
+#Страници для индексирования роботом
+Sitemap: http://andre-y-ru.github.io/index.html
+Sitemap: http://andre-y-ru.github.io/archive.html
+Sitemap: http://andre-y-ru.github.io/css.html
+Sitemap: http://andre-y-ru.github.io/code.html
+Sitemap: http://andre-y-ru.github.io/pege_dragon.html
