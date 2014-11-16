@@ -1,7 +1,8 @@
 Blogcat and Sync
 =====================
-
 Сайт для меня и знакомых.
+
+<img class="img-thumbnail" src="img/examples/Blogf2.png"></img>
 
 О проекте
 ----------------
