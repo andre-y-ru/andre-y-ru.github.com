@@ -2,6 +2,8 @@ Blogcat and Sync
 =====================
 Сайт для меня и знакомых.
 
+Логотип #blogcat
+----------------
 <img class="img-thumbnail" src="img/examples/Blogf2.png"></img>
 
 О проекте
