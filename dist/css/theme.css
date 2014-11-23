@@ -39,6 +39,35 @@ code {
   font-size: 80%;
 }
 
+/* Мой личный опыт */
+
 #zcolor > .zzz 
 x {color:rgb(0,255,55);}
 x {color:#177AD2;}
+
+#kzcolor > .zzz 
+k {color:rgb(0,10,25);}
+k {color:#252528;}
+
+#vzcolor > .zzz 
+v {color:rgb(0,255,25);}
+v {color:#666;}
+
+#rgcolor > .zzz
+r {color:rgb(0,0,25);}
+r {color:#FFA500;}
+
+    /* Молния */
+
+.line {
+    text-align: left; /* Выравниваем текст по центру */
+    border-top: 1px dashed #888; /* Параметры цвета линии  */
+    height: 1px; /* Высота блока */
+   }
+   .line:after { 
+    content: "12'11'14 ~$ 1.2.6 ~ 1.3.0"; 
+    font-family: Arial, sans-serif; /* Рубленый шрифт для надписи */
+    font-size: 8px; /* Размер шрифта */
+    color: #666; /* Параметры цвета  */
+    vertical-align: top; /* Выравнивание по верхнему краю */
+   }
