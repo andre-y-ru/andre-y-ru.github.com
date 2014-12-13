@@ -4,7 +4,7 @@ Blogcat and Sync
 
 Логотип #blogcat
 ----------------
-<img class="img-thumbnail" src="img/examples/Blogf2.png"></img>
+<img src="img/examples/Blogf2.png" width="250"></img>
 
 О проекте
 ----------------
@@ -17,6 +17,6 @@ Blogcat and Sync
 
 License
 ----------------
-Автор: ( [https://twitter.com/andre-y-ru](https://twitter.com/andre_y_ru) ) 
+Автор: ( [https://twitter.com/andre-y-ru](https://twitter.com/andre-y-ru) )
 
 © Emelyanenko &middot; 2014
