@@ -6,13 +6,19 @@ Disallow: /assets/
 Disallow: /dist/
 Disallow: /grunt/
 Disallow: /img/
+Disallow: /a_data/
 #Основной хост, зеркало
 Host: andre-y-ru.github.io
+Host: andre-y-ru.github.com
 #Страници для индексирования роботом
 Sitemap: http://andre-y-ru.github.io/index.html
 Sitemap: http://andre-y-ru.github.io/archive.html
 Sitemap: http://andre-y-ru.github.io/css.html
-Sitemap: http://andre-y-ru.github.io/code.html
-Sitemap: http://andre-y-ru.github.io/pege_dragon.html
-Sitemap: http://andre-y-ru.github.io/elder_scrolls.html
-Sitemap: http://andre-y-ru.github.io/my_logos.html
+Sitemap: http://andre-y-ru.github.io/boxe.html
+Sitemap: http://andre-y-ru.github.io/peges/2014-08-11_code.html
+Sitemap: http://andre-y-ru.github.io/peges/2014-02-24_pege_dragon.html
+Sitemap: http://andre-y-ru.github.io/peges/2014-02-02_elder_scrolls.html
+Sitemap: http://andre-y-ru.github.io/peges/2014-07-16_my_logos.html
+Sitemap: http://andre-y-ru.github.io/peges/2014-07-23_nighrty.html
+#Links
+Sitemap: http://andre-y-ru.github.io/bloglink/2014-12-09_news.html
