@@ -14,18 +14,8 @@
     <link href="../dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Bootstrap theme -->
     <link href="../dist/css/bootstrap-theme.min.css" rel="stylesheet">
-
     <!-- Custom styles for this template -->
     <link href="../dist/css/theme.css" rel="stylesheet">
-
-    <!-- Just for debugging purposes. Don't actually copy this line! -->
-    <!--[if lt IE 9]><script src="assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
   </head>
 
   <body>
@@ -43,23 +33,30 @@
           <a class="navbar-brand" href="../index.html"><img style="width: 60px; height: 30px;" src="../assets/ico/Blogcat.png"></img></a>
         </div>
         <div class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
+        <ul class="nav navbar-nav">
+        <li class="dropdown">
+              <a href="index.html" class="dropdown-toggle" data-toggle="dropdown"> Ещё один блокнот <b class="caret"></b></a>
+              <ul class="dropdown-menu">
             <li><a href="../index.html">Сегодня</a></li>
             <li><a href="../archive.html">Архив</a></li>
             <li><a href="../css.html">О проекте</a></li>
-            <li><a href="https://twitter.com/andre_y_ru"><img style="width: 22px; height: 16px;" src="../a_data/features-ico2.png">  @twitter.com </a></li> <!-- Feed -->
+            <li class="divider"></li>
+                <li class="dropdown-header">Сервисы</li>
+            <li><a href="../bloglink/2014-12-09_news.html">&#8627;&#8624; Обзор ссылок </a></li>
+           </ul>
+           </ul>
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="https://twitter.com/andre_y_ru"><img style="width: 22px; height: 16px;" src="../a_data/features-ico2.png"> мой твиттер</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
     </div>
 
     <div class="container">
-
-      <ul class="pager">
-    
+    <ul class="pager">
     <li class="next">
     
-      <strong><h1><x> &#171; </x> Кошачьи истории, или как пишется code <x> &#187; </x></h1> </strong>
+      <strong><h2><x> &#171; </x> Кошачьи истории, или как пишется code <x> &#187; </x></h2> </strong>
     </li></ul>
   
       <hr>
@@ -73,7 +70,7 @@
         <center><a href="../index.html"><img class="img-thumbnail" data-src="../img/examples/html5.png" src="../img/examples/html5.png"></img></a></center>
 
      
-      <h2>  &#8220; HTML &#8221;  </h2>
+      <h3>  &#8220; HTML &#8221;  </h3>
       <hr>
       <p>HTML (от англ. HyperText Markup Language — «язык программирования гипертекстовой разметки»;) — стандартный язык разметки документов во Всемирной паутине. Большинство веб-страниц содержат описание разметки на языке HTML (или XHTML). Язык HTML интерпретируется браузерами и отображается в виде документа в удобной для человека форме.</p>
       <p>Язык HTML является приложением («частным случаем») SGML (стандартного обобщённого языка разметки) и соответствует международному стандарту ISO 8879.</p>
@@ -83,7 +80,7 @@
       <p>Во всемирной паутине HTML-страницы, как правило, передаются браузерам от сервера по протоколам HTTP или HTTPS, в виде простого текста или с использованием сжатия.</p>
       <p><a href="http://ru.wikipedia.org/wiki/HTML"> Данный Материал был взят из Википедии — свободной энциклопедии &#8594;</a></p>
       <br>
-      <h2> &#8220; Общее представление &#8221;</h2>
+      <h3> &#8220; Общее представление &#8221;</h3>
       <hr>
       <p>Язык HTML был разработан британским учёным Тимом Бернерсом-Ли приблизительно в 1986—1991 годах в стенах Европейского Центра ядерных исследований в Женеве (Швейцария). HTML создавался как язык для обмена научной и технической документацией, пригодный для использования людьми, не являющимися специалистами в области вёрстки. HTML успешно справлялся с проблемой сложности SGML путём определения небольшого набора структурных и семантических элементов — дескрипторов. Дескрипторы также часто называют «тегами». С помощью HTML можно легко создать относительно простой, но красиво оформленный документ. Помимо упрощения структуры документа, в HTML внесена поддержка гипертекста. Мультимедийные возможности были добавлены позже.</p>
       <p>Изначально язык HTML был задуман и создан как средство структурирования и форматирования документов без их привязки к средствам воспроизведения (отображения). В идеале, текст с разметкой HTML должен был без стилистических и структурных искажений воспроизводиться на оборудовании с различной технической оснащённостью (цветной экран современного компьютера, монохромный экран органайзера, ограниченный по размерам экран мобильного телефона или устройства и программы голосового воспроизведения текстов). Однако современное применение HTML очень далеко от его изначальной задачи. Например, тег &lt;TABLE &gt; предназначен для создания в документах таблиц, но часто используется и для оформления размещения элементов на странице. С течением времени основная идея платформонезависимости языка HTML была принесена в жертву современным потребностям в мультимедийном и графическом оформлении.</p>
@@ -91,7 +88,7 @@
       <p><a href="http://ru.wikipedia.org/wiki/HTML"> Данный Материал был взят из Википедии — свободной энциклопедии &#8594;</a></p>
       <br>
       
-      <h2> &#8220; Как написать красивый code &#8221; </h2>
+      <h3> &#8220; Как написать красивый code &#8221; </h3>
       <hr>
       <p>Здесь всё придельно просто следуйте определённым правилам чистого кода. А именно!</p>
 
@@ -202,13 +199,11 @@
 
 <div id="footer">
       <div class="container">
-        <p class="text-muted">&copy; Emelyanenko 2014 &middot; Versy (1.3.0) &middot; копировать нужно правильно &middot; теперь с поддержкой iphone <a href="#"></a></p>
+        <p class="text-muted">&copy; Emelyanenko 2014 &middot; Versy (1.3.1) &middot; копировать нужно правильно &middot; теперь с поддержкой iphone <a href="#"></a></p>
       <div class="line"></div>
     </div>
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
+    <!-- Bootstrap core JavaScript -->
     <script src="../assets/js/jquery-1.10.2.min.js"></script>
     <script src="../dist/js/bootstrap.min.js"></script>
     <script src="../assets/js/holder.js"></script>
