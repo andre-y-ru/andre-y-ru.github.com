@@ -20,5 +20,7 @@ Sitemap: http://andre-y-ru.github.io/peges/2014-02-24_pege_dragon.html
 Sitemap: http://andre-y-ru.github.io/peges/2014-02-02_elder_scrolls.html
 Sitemap: http://andre-y-ru.github.io/peges/2014-07-16_my_logos.html
 Sitemap: http://andre-y-ru.github.io/peges/2014-07-23_nighrty.html
+Sitemap: http://andre-y-ru.github.io/peges/2014-12-29_asus.html
 #Links
 Sitemap: http://andre-y-ru.github.io/bloglink/2014-12-09_news.html
+Sitemap: http://andre-y-ru.github.io/bloglink/2014-12-29_news.html
