@@ -36,7 +36,7 @@
         <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
         <li class="dropdown">
-              <a href="index.html" class="dropdown-toggle" data-toggle="dropdown"> Ещё один блокнот <b class="caret"></b></a>
+              <a href="../index.html" class="dropdown-toggle" data-toggle="dropdown"> Ещё один блокнот <b class="caret"></b></a>
               <ul class="dropdown-menu">
             <li><a href="../index.html">Сегодня</a></li>
             <li><a href="../archive.html">Архив</a></li>
@@ -59,19 +59,15 @@
     <li class="next">
     <a href="../peges/2014-07-23_nighrty.html">Туда &rarr;</a>
     <a class="pull-left" href="../index.html">&larr; Сюда</a>
-      <strong><h2><x> &#171; </x> Пингвин пришол к нам в дом <x> &#187; </x></h2></strong> </li></ul>
+      <strong><h2><x> &#171; </x> Пингвин пришол к нам в дом<x> &#187; </x></h2></strong> </li></ul>
     <hr>
-    <center>
-    <ul class="pager">
-    <b><v>beta ссылка.md - </v></b> <a href="../bloglink/2014-12-29_news.html"><button type="button" class="btn btn-xs btn-success"> &#8627; Туда-сюда &#8624;</button></a></ul></center>
-
     
       <p>Поздравляю всех своих читателей С новым годом! Желаю чтобы в новом году осуществились все ваши намеченные планы. Весёлых, энергичных и самое главное незабываемых новогодних праздников. <a href=""></a> </p>
       <br>
 
        <!--  rpi - pic example -->
 
-        <center><a href="../index.html"><img class="img-thumbnail" data-src="../img/examples/nightly.jpg" src="../img/examples/nightly.jpg"></img></a></center>
+        <center><a href="../index.html"><img class="img-thumbnail" data-src="../img/examples/fon.png" src="../img/examples/fon.png"></img></a></center>
 
 
       <h3>  &#8220; Лёгкий дистрибутив под операционный системы *Linux &#8221;  </h3>
@@ -83,18 +79,32 @@
       <h3>  &#8220; XP морально уже надоела и душа просит чего то нового &#8221;  </h3>
       <hr>
 
-      <p>Ранее на данной ноутбуке стояла XP Home, очень хорошая и надёжная система. Но XP морально уже надоела и душа просила чего то нового и современного. Да и вирусы уже порядком надоели. А самое главное что мне нравиться в *unix системах, это то что, всё можно настроить так как действительно хочется.</p>
+      <p>Ранее на данной ноутбуке стояла XP Home, очень хорошая и надёжная система. Но XP морально уже надоела и душа просила чего то нового, современного. Да и вирусы уже порядком надоели. А самое главное что мне нравиться в *unix системах, это то что, всё можно настроить так как действительно хочется.</p>
 
       <p>Из интересного можно даже запрограммировать нажатия кнопок на клавиатуре. Ну нравится мене работать через терминал тут нечего не поделаешь. Насчёт программ можно не беспокоится, здесь их полным полно.</p>
 
       <p>Производительность даже увеличилась. Хоть и не в разы, но вполне ощутимо. Единственный недостаток, это то что интегрированная видеокарта intel, так и не заработала. Для меня это несущественно, всё равно в игры, я на нем не планировал играть. Ноутбук для работы, записи песен и подкастов. Всё работает счастливый как слон.</p>
+      
+      <p><b>Runtu — российский дистрибутив Linux</b>, базирующийся на пакетной базе Ubuntu, использует в качестве графической среды GNOME и приложения на GTK+. Также существуют сборки с более легковесными окружениями рабочего стола XFCE и Openbox. Идея Runtu — простота и доступность Ubuntu, соединённая с русской локализацией и набором необходимого программного обеспечения, готового к использованию сразу после установки. Дистрибутив использует репозиторий Ubuntu и Launchpad PPA.</p>
+
+      <p><a href="https://ru.wikipedia.org/wiki/Runtu"> Данный Материал был взят из Википедии — свободной энциклопедии &#8594;</a></p>
       <br>
 
       <h3> &#8220; Пример повседневных скриптов &#8221;</h3>
       <hr>
-      <p>На посмотреть выложу видео использования простых скриптов на #bash.</p>
+      <p>На посмотреть выложу видео использования простых скриптов на <b>#bash</b>.</p>
+      <p><b>1.</b> Простые команды (копирования и перемещения)</p>
+      <code>#!/bin/bash<br />
+find -name "*.torrent" -exec cp '{}'  ~/Btsync/btorrent \;<br />
+find -name "*.torrent" -exec mv '{}'  ~/Загрузки/btorrent \;<br /></code><br>
+     <p><b>2.</b> Ещё команды (перемещения)</p>
+<code>
+#!/bin/bash<br />
+find -name "*.avi" -exec mv '{}'  ~/Видео \;<br />
+find -name "*.mkv" -exec mv '{}'  ~/Видео \;<br /></code>
       <br>
-      <center><p class="img-thumbnail"> <iframe frameborder="0" src="http://video.yandex.ru/iframe/mirchon/uldrjdkhl2.4328/"></iframe></p></center>
+      <p>Hi tech video. Мой очередной новый проектик на vimeo. Пока без заставки и представлений. Смотрим!</p>
+      <center><p class="img-thumbnail"><iframe src="//player.vimeo.com/video/116985946" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p> <p><a href="http://vimeo.com/116985946">Chip#01</a> from <a href="http://vimeo.com/user35953968">Andre-y-ru</a> on <a href="https://vimeo.com">Vimeo</a>.</p></center>
       <br>
       
       <dfn>До встречи на неделе. Уже в 2015 году.</dfn>
