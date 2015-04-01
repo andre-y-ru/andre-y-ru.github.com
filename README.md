@@ -19,4 +19,4 @@ License
 ----------------
 Автор: ( [https://twitter.com/andre-y-ru](https://twitter.com/andre_y_ru) )
 
-© Emelyanenko &middot; 2014
+© Emelyanenko &middot; 2014-2015
