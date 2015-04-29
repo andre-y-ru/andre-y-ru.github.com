@@ -1,0 +1,25 @@
+16-03-2015 | **[HTML](../../../../p/2015/03/16/musik-utra.html)** 
+Музыка утра.
+============
+![image](../../../../images/p/music-utra.jpeg/230x230)
+
+Сегодня 16 марта 2015 год, время 14:46. Есть свободная минутка? Если да, то слушайте! Уже давно мне хотелось записать свой сингл, но не было ни времени, ни вдохновения. К счастью начало положено и сингл готов. Я не профи, а любитель. Но результат меня приятно удивил. С импровизировать такое, за 5 минут, это достижение.
+
+Альбом: Музыка утра - Ревервнс
+<object data="../../../../player/player.swf" height="24" id="audioplayer1" style="clear: left; float:" type="application/x-shockwave-flash" width="320"> <param name="movie" value="../../../../player/player.swf"><param name="FlashVars" value="playerID=audioplayer1&soundFile=https://dl.dropboxusercontent.com/u/73454833/musika/Reverans-melody.mp3"><param name="quality" value="high"><param name="menu" value="false"><param name="wmode" value="transparent"></object>
+
+[аудио](https://dl.dropboxusercontent.com/u/73454833/musika/Reverans-melody.mp3) · [фото](http://vk.com/album87387437_213097238)
+
+“Основные программы под линукс”
+-------------------------------
+Так же, я хотел поделится с вами набором основных программ под линукс. Программы которые, я использую.
+
+**Всё вразброс, потом поправим.**
+
+**Geary** — почтовый клиент; **uGet** — качок для файлов; **OpenOffice** — офис; **Ocenaudio** — для записи, редактирования звука; **SublimeText** — редактор кода; **PuTTY SSH Client** — **ssh** клиент; **Gparted** — редактор разделов; **AppGrid** — менеджер приложений; **Unetbootin** — запись образов на usb; **Amarok** — музыкальный плеер; **Turpial** — twitter клиент; **Vlc** — видео проигрыватель; **nemo** — менеджер файлов; **Terminator** — терминал; **Audacity** — топовый; **Dia** — редактор схем; **Pinta** — редактор для изображений; **Caffeine** — выпьем кофе, полезная кнопка; **medit** — редактор текста; **KeePassX** — сейф для ключей; **Git** — система контроля версий; **TrueCrypt** — криптография; **Psensor** — температурный сенсор; **Veriety** — смена обоев; **ARandR** — подключение нескольких дисплеев; **GDebi** — установка покетов; **bereFTP** — ftp клиент; **Lingot** — тюнер; **Gimp** — редактор изображений; **Dropbox** — облачное хранилище; **Btsync** — *beta хранилище файлов; **Hydrogen** — midi барабаны; **Tuxguitar** — редактор табов; **Diffuse** — слияние файлов; **Gigit/gitg** — контроль версий гита; **Gcolor2** — колор, пипетка; **Htop/bmon** — консольная статистика; **WebHTTrack** — закачка сайта; **pwgen** — консольный генератор паролей. 
+
+<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://andre-y-ru.github.io/p/2015/03/16/musika-utra.md" data-via="ander-y-ru" data-counturl="http://andre-y-ru.github.io/p/2015/03/16/musika-utra.md" >Tweet</a>
+
+[&laquo; Ко мне в дом пришел пингвин.](href=./../../../p/2014/12/30/ko-mne-v-dom-prichol-tux.md)
+
+© Emelyanenko &middot; 2014-2015 · копировать нужно правильно · репозиторий на [github](https://github.com) · отдельное спасибо [Octopress](http://octopress.org)

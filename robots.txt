@@ -1,0 +1,22 @@
+﻿#Поисковой робот
+User-agent: Yandex
+#Запрешённые дериктории для индексирования
+Disallow: /.git/
+Disallow: /assets/
+Disallow: /stylesheets/
+Disallow: /player/
+Disallow: /images/
+Disallow: /javascripts/
+#Основной хост, зеркало
+Host: andre-y-ru.github.io
+#Страници для индексирования роботом
+Sitemap: http://andre-y-ru.github.io/index.html
+Sitemap: http://andre-y-ru.github.io/archives/archive.html
+Sitemap: http://andre-y-ru.github.io/p/2014/12/30/ko-mne-v-dom-prichol-tux.html
+Sitemap: http://andre-y-ru.github.io/p/2015/03/16/musik-utra.html
+Sitemap: http://andre-y-ru.github.io/p/2014/.html
+Sitemap: http://andre-y-ru.github.io/p/2014/.html
+Sitemap: http://andre-y-ru.github.io/p/2014/.html
+Sitemap: http://andre-y-ru.github.io/p/2014/.html
+Sitemap: http://andre-y-ru.github.io/p/2014/.html
+#Links

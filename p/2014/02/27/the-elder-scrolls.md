@@ -1,0 +1,27 @@
+27-02-2014 | **[HTML](../../../../p/2014/02/27/the-elder-scrolls.html)**
+The Elder Scrolls Online.
+=========================
+![image](../../../../images/p/elder-scrolls.jpeg/230x230)
+
+Всем привет. Сегодня, я вас познакомлю с интересным трейлером от "The Elder Scrolls". Совершенно случайно забрёл на сайт [elderscrollsonline.su](http://elderscrollsonline.su) и нашёл там крутой ролик. Надеюсь, игра будет на уровне. Смотрим и наслаждаемся.
+
+Действие многопользовательской ролевой игры «The Elder Scrolls Online» будет происходить задолго до событий предыдущих частей серии — во времена второй эры. Об этой тёмной эпохе, в течение которой весь Тамриэль был охвачен пламенем войны, известно немногое.
+
+Империя ослаблена многочисленными конфликтами с другими провинциями и едва способна защитить собственные границы. В попытке вернуть континент под власть императора, благородная семья Тарнов заключает союз с печально известным некромантом Маннимарко. Король Червей соглашается возвращать к жизни погибших легионеров, поддерживая боеспособность имперского войска.
+
+Однако, втайне от всех, коварный некромант служит другому господину — принцу даэдра Молаг Балу, намеревающемуся завоевать царство смертных и сделать его частью своего демонического измерения.
+
+Игрокам предстоит вернуть свои бессмертные души, похищенные Маннимарко и разрушить планы короля насилия Молаг Бала, отправив его назад в Обливион.
+
+[Всё самое интересное о The Elder Scrolls Online, подробнее — смотрите на elderscrollsonline.su →](http://elderscrollsonline.su/the_elder_scrolls_online)
+
+“Видео”
+-------
+Два супер трейлера от The Elder Scrolls Online. Просто Круть.
+<p class="img-thumbnail"> <iframe frameborder="0" src="http://youtube.com/embed/ekcKuFt0oME?feature=player_embedded"></iframe> <iframe frameborder="0" src="http://youtube.com/embed/0jNT5cMwxw0?feature=player_embedded"></iframe></p>
+
+<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://andre-y-ru.github.io/p/2014/02/27/the-elder-scrolls.md" data-via="ander-y-ru" data-counturl="http://andre-y-ru.github.io/p/2014/02/27/the-elder-scrolls.md">Tweet</a>
+
+[&laquo; Планета динозавров.](../../../../p/2014/02/24/planeta-dinozavrov.md) | [Мой логотип. &raquo;](href=../../../../p/2014/07/16/my-logos.md)
+
+© Emelyanenko &middot; 2014-2015 · копировать нужно правильно · репозиторий на [github](https://github.com) · отдельное спасибо [Octopress](http://octopress.org)
