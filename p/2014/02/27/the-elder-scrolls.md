@@ -1,7 +1,8 @@
-27-02-2014 | **[HTML](../../../../p/2014/02/27/the-elder-scrolls.html)**
+27-02-2014 | **[HTML](http://andre-y-ru.github.io/p/2014/02/27/the-elder-scrolls.html)**
+
 The Elder Scrolls Online.
 =========================
-![image](../../../../images/p/elder-scrolls.jpeg/230x230)
+![image](../../../../images/p/elder-scrolls.jpeg)
 
 Всем привет. Сегодня, я вас познакомлю с интересным трейлером от "The Elder Scrolls". Совершенно случайно забрёл на сайт [elderscrollsonline.su](http://elderscrollsonline.su) и нашёл там крутой ролик. Надеюсь, игра будет на уровне. Смотрим и наслаждаемся.
 
@@ -18,10 +19,11 @@ The Elder Scrolls Online.
 “Видео”
 -------
 Два супер трейлера от The Elder Scrolls Online. Просто Круть.
-<p class="img-thumbnail"> <iframe frameborder="0" src="http://youtube.com/embed/ekcKuFt0oME?feature=player_embedded"></iframe> <iframe frameborder="0" src="http://youtube.com/embed/0jNT5cMwxw0?feature=player_embedded"></iframe></p>
 
-<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://andre-y-ru.github.io/p/2014/02/27/the-elder-scrolls.md" data-via="ander-y-ru" data-counturl="http://andre-y-ru.github.io/p/2014/02/27/the-elder-scrolls.md">Tweet</a>
+[Видео №1](http://youtube.com/embed/ekcKuFt0oME?feature=player_embedded)
+[Видео №2](http://youtube.com/embed/0jNT5cMwxw0?feature=player_embedded)
 
-[&laquo; Планета динозавров.](../../../../p/2014/02/24/planeta-dinozavrov.md) | [Мой логотип. &raquo;](href=../../../../p/2014/07/16/my-logos.md)
+
+[&laquo; Планета динозавров.](http://andre-y-ru.github.io/p/2014/02/24/planeta-dinozavrov.md) | [Мой логотип. &raquo;](http://andre-y-ru.github.io/p/2014/07/16/my-logos.md)
 
 © Emelyanenko &middot; 2014-2015 · копировать нужно правильно · репозиторий на [github](https://github.com) · отдельное спасибо [Octopress](http://octopress.org)

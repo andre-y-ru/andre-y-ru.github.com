@@ -1,4 +1,4 @@
-﻿#Поисковой робот
+#Поисковой робот
 User-agent: Yandex
 #Запрешённые дериктории для индексирования
 Disallow: /.git/
@@ -14,9 +14,9 @@ Sitemap: http://andre-y-ru.github.io/index.html
 Sitemap: http://andre-y-ru.github.io/archives/archive.html
 Sitemap: http://andre-y-ru.github.io/p/2014/12/30/ko-mne-v-dom-prichol-tux.html
 Sitemap: http://andre-y-ru.github.io/p/2015/03/16/musik-utra.html
-Sitemap: http://andre-y-ru.github.io/p/2014/.html
-Sitemap: http://andre-y-ru.github.io/p/2014/.html
-Sitemap: http://andre-y-ru.github.io/p/2014/.html
-Sitemap: http://andre-y-ru.github.io/p/2014/.html
-Sitemap: http://andre-y-ru.github.io/p/2014/.html
+Sitemap: http://andre-y-ru.github.io/p/2014/07/23/pochemu-nightly.html
+Sitemap: http://andre-y-ru.github.io/p/2014/07/16/my-logos.html
+Sitemap: http://andre-y-ru.github.io/p/2014/02/27/the-elder-scrolls.html
+Sitemap: http://andre-y-ru.github.io/p/2014/02/24/planeta-dinozavrov.html
+Sitemap: http://andre-y-ru.github.io/archives/categories/my-day/archive.html
 #Links

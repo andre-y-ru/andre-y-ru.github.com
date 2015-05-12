@@ -1,7 +1,8 @@
-30-12-2014 | **[HTML](../../../../p/2014/12/30/ko-mne-v-dom-prichol-tux.html)** 
+30-12-2014 | **[HTML](http:/andre-y-ru.github.io/p/2014/12/30/ko-mne-v-dom-prichol-tux.html)** 
+
 Ко мне в дом пришел пингвин.
 =============================
-![image](../../../../images/p/bag-404.png/230x230)
+![image](../../../../images/p/bag-404.png)
 
 Поздравляю всех своих читателей С новым годом! Желаю чтобы в новом году осуществились все ваши намеченные планы. Весёлых, энергичных и самое главное незабываемых новогодних праздников.
 
@@ -43,12 +44,10 @@ Runtu — российский дистрибутив Linux, базирующи�
 
 **Hi tech video.** Мой очередной новый проектик. Пока без заставки и представлений. Смотрим!
 
-<p class="img-thumbnail"><iframe src="//player.vimeo.com/video/116985946" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
 [Chip#01](http://vimeo.com/116985946) from [Andre-y-ru](http://vimeo.com/user35953968) on [Vimeo](https://vimeo.com)
 
-<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://andre-y-ru.github.io/p/2014/12/30/ko-mne-v-dom-prichol-tux.md" data-via="ander-y-ru" data-counturl="http://andre-y-ru.github.io/p/2014/12/30/ko-mne-v-dom-prichol-tux.md" >Tweet</a>
 
-[&laquo; Почему именно Nightly?](href=../../../../p/2014/07/23/pochemu-nightly.md) | [Музыка утра. &raquo;](href=../../../../p/2015/03/16/musik-utra.md)
+[&laquo; Почему именно Nightly?](http://andre-y-ru.github.io/p/2014/07/23/pochemu-nightly.md) | [Музыка утра. &raquo;](http://andre-y-ru.github.io/p/2015/03/16/musik-utra.md)
 
 © Emelyanenko &middot; 2014-2015 · копировать нужно правильно · репозиторий на [github](https://github.com) · отдельное спасибо [Octopress](http://octopress.org)

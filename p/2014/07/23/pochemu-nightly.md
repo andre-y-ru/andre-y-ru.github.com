@@ -1,7 +1,8 @@
-23-07-2014 | **[HTML](../../../../p/2014/07/23/pochemu-nightly.html)**
+23-07-2014 | **[HTML](http://andre-y-ru.github.io/p/2014/07/23/pochemu-nightly.html)**
+
 Почему именно Nightly?
 ======================
-![image](../../../../images/p/mozilla_nightly.png/230x230)
+![image](../../../../images/p/mozilla_nightly.png)
 
 Представляю вашему вниманию веб-браузер Firefox Nightly. Можно долго обсуждать какой-же веб-браузер лучшый? По-моему мнению его просто нет. Каждый вибирает для себя сам. На свой глаз и вкус. Мой выбор пал на Firefox Nightly.
 
@@ -16,12 +17,11 @@
 “Nightly and Ubuntu”
 ---------------------
 Для сымых гиковых гиков. Скин установки - Install Firefox Nightly on Ubuntu.
+
 ![image](../../../../images/smech/imps.png)
 
 [Всё для экстрима: Форум поддержки &#8594;](https://support.mozilla.org/ru/questions/924510)
 
-<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://andre-y-ru.github.io/p/2014/07/23/pochemu-nightly.md" data-via="ander-y-ru" data-counturl="http://andre-y-ru.github.io/p/2014/07/23/pochemu-nightly.md">Tweet</a>
-
-[&laquo; Музыка утра.](href=../../../../p/2015/03/16/musik-utra.md) | [Почему именно Nightly? &raquo;](href=../../../../p/2014/07/23/pochemu-nightly.md)
+[&laquo; Музыка утра.](http://andre-y-ru.github.io/p/2015/03/16/musik-utra.md) | [Почему именно Nightly? &raquo;](http://andre-y-ru.github.io/p/2014/07/23/pochemu-nightly.md)
 
 © Emelyanenko &middot; 2014-2015 · копировать нужно правильно · репозиторий на [github](https://github.com) · отдельное спасибо [Octopress](http://octopress.org)
