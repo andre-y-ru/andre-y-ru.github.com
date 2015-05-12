@@ -23,6 +23,6 @@
 
 Подборка с моими логотипами. 30 миниут труда и 0.4 литра пота.
 
-[&laquo; he Elder Scrolls Online.](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2014/02/27/the-elder-scrolls.md) | [Почему именно Nightly?T &raquo;](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2014/07/23/pochemu-nightly.md)
+[&laquo; The Elder Scrolls Online.](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2014/02/27/the-elder-scrolls.md) | [Почему именно Nightly?T &raquo;](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2014/07/23/pochemu-nightly.md)
 
 © Emelyanenko &middot; 2014-2015 · копировать нужно правильно · репозиторий на [github](https://github.com) · отдельное спасибо [Octopress](http://octopress.org)
