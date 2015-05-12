@@ -22,6 +22,6 @@
 
 [Всё для экстрима: Форум поддержки &#8594;](https://support.mozilla.org/ru/questions/924510)
 
-[&laquo; Музыка утра.](http://andre-y-ru.github.io/p/2015/03/16/musik-utra.md) | [Почему именно Nightly? &raquo;](http://andre-y-ru.github.io/p/2014/07/23/pochemu-nightly.md)
+[&laquo; Мой логотип.](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2014/07/16/my-logos.md) | [Ко мне в дом пришел пингвин &raquo;](http://andre-y-ru.github.io/p/2014/12/30/ko-mne-v-dom-prichol-tux.html)
 
 © Emelyanenko &middot; 2014-2015 · копировать нужно правильно · репозиторий на [github](https://github.com) · отдельное спасибо [Octopress](http://octopress.org)

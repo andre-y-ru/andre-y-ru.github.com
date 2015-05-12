@@ -24,6 +24,6 @@ The Elder Scrolls Online.
 [Видео №2](http://youtube.com/embed/0jNT5cMwxw0?feature=player_embedded)
 
 
-[&laquo; Планета динозавров.](http://andre-y-ru.github.io/p/2014/02/24/planeta-dinozavrov.md) | [Мой логотип. &raquo;](http://andre-y-ru.github.io/p/2014/07/16/my-logos.md)
+[&laquo; Планета динозавров.](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2014/02/24/planeta-dinozavrov.md) | [Мой логотип. &raquo;](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2014/07/16/my-logos.md)
 
 © Emelyanenko &middot; 2014-2015 · копировать нужно правильно · репозиторий на [github](https://github.com) · отдельное спасибо [Octopress](http://octopress.org)

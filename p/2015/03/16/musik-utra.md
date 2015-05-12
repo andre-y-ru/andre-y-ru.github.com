@@ -1,4 +1,4 @@
-16-03-2015 | **[HTML](http//andre-y-ru.github.io/p/2015/03/16/musik-utra.html)** 
+16-03-2015 | **[HTML](http://andre-y-ru.github.io/p/2015/03/16/musik-utra.html)** 
 
 Музыка утра.
 ============
@@ -19,6 +19,6 @@
 **Geary** — почтовый клиент; **uGet** — качок для файлов; **OpenOffice** — офис; **Ocenaudio** — для записи, редактирования звука; **SublimeText** — редактор кода; **PuTTY SSH Client** — **ssh** клиент; **Gparted** — редактор разделов; **AppGrid** — менеджер приложений; **Unetbootin** — запись образов на usb; **Amarok** — музыкальный плеер; **Turpial** — twitter клиент; **Vlc** — видео проигрыватель; **nemo** — менеджер файлов; **Terminator** — терминал; **Audacity** — топовый; **Dia** — редактор схем; **Pinta** — редактор для изображений; **Caffeine** — выпьем кофе, полезная кнопка; **medit** — редактор текста; **KeePassX** — сейф для ключей; **Git** — система контроля версий; **TrueCrypt** — криптография; **Psensor** — температурный сенсор; **Veriety** — смена обоев; **ARandR** — подключение нескольких дисплеев; **GDebi** — установка покетов; **bereFTP** — ftp клиент; **Lingot** — тюнер; **Gimp** — редактор изображений; **Dropbox** — облачное хранилище; **Btsync** — *beta хранилище файлов; **Hydrogen** — midi барабаны; **Tuxguitar** — редактор табов; **Diffuse** — слияние файлов; **Gigit/gitg** — контроль версий гита; **Gcolor2** — колор, пипетка; **Htop/bmon** — консольная статистика; **WebHTTrack** — закачка сайта; **pwgen** — консольный генератор паролей. 
 
 
-[&laquo; Ко мне в дом пришел пингвин.](http://andre-y-ru.github.io/p/2014/12/30/ko-mne-v-dom-prichol-tux.md) |
+[&laquo; Ко мне в дом пришел пингвин.](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2014/12/30/ko-mne-v-dom-prichol-tux.md) |
 
 © Emelyanenko &middot; 2014-2015 · копировать нужно правильно · репозиторий на [github](https://github.com) · отдельное спасибо [Octopress](http://octopress.org)
