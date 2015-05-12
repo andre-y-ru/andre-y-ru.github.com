@@ -48,6 +48,6 @@ Runtu — российский дистрибутив Linux, базирующи�
 [Chip#01](http://vimeo.com/116985946) from [Andre-y-ru](http://vimeo.com/user35953968) on [Vimeo](https://vimeo.com)
 
 
-[&laquo; Почему именно Nightly?](http://andre-y-ru.github.io/p/2014/07/23/pochemu-nightly.md) | [Музыка утра. &raquo;](http://andre-y-ru.github.io/p/2015/03/16/musik-utra.md)
+[&laquo; Почему именно Nightly?](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2014/07/23/pochemu-nightly.md) | [Музыка утра. &raquo;](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2015/03/16/musik-utra.md)
 
 © Emelyanenko &middot; 2014-2015 · копировать нужно правильно · репозиторий на [github](https://github.com) · отдельное спасибо [Octopress](http://octopress.org)
