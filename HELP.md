@@ -17,6 +17,8 @@ HELP
 5. git add index.html <!-- добовляем файл -->
 6. git commit -m "мой первый фаил" <!-- пишим комментарий -->
 7. git push https://github.com/andre-y-ru/andre-y-ru.github.com.git master <!-- пушим на гитхаб -->
+8. git pull https://github.com/andre-y-ru/andre-y-ru.github.com.git master <!-- пилим сайтик на локалку (полезна при работе на нескольких пк) -->
+9. git help <!-- помощь? -->
 ```
 
 Хитрости с Git
