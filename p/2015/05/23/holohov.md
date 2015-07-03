@@ -33,6 +33,6 @@
 [Панорама набережной..](../../../../images/smech/holohov5.jpeg)
 
 
-[&laquo; Музыка утра.](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2015/03/16/musik-utra.md) |
+[&laquo; Музыка утра.](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2015/03/16/musik-utra.md) | [Ведьмак - Дикая охота &raquo;](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2015/07/03/witcher.md)
 
 © Emelyanenko &middot; 2014-2015 · копировать нужно правильно · репозиторий на [github](https://github.com) · отдельное спасибо [Octopress](http://octopress.org)
