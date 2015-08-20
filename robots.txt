@@ -20,6 +20,7 @@ Sitemap: http://andre-y-ru.github.io/p/2014/02/27/the-elder-scrolls.html
 Sitemap: http://andre-y-ru.github.io/p/2014/02/24/planeta-dinozavrov.html
 Sitemap: http://andre-y-ru.github.io/p/2015/07/03/witcher.html
 Sitemap: http://andre-y-ru.github.io/p/2015/05/23/holohov.html
+Sitemap: http://andre-y-ru.github.io/p/2015/08/19/stalker.html
 Sitemap: http://andre-y-ru.github.io/archives/categories/my-day/archive.html
 Sitemap: http://andre-y-ru.github.io/archives/categories/games/archive.html
 #Links
