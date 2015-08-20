@@ -33,6 +33,6 @@
 ![image](../../../../images/smech/witcher6.jpg)
 
 
-[&laquo; Вёшенская весна.](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2015/05/23/holohov.md) | 
+[&laquo; Вёшенская весна.](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2015/05/23/holohov.md) | [Сталкер - Закон Дегтярёва &raquo;](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2015/08/19/stalker.md)
 
 © Emelyanenko &middot; 2014-2015 · копировать нужно правильно · репозиторий на [github](https://github.com) · отдельное спасибо [Octopress](http://octopress.org)
