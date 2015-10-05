@@ -29,7 +29,7 @@
 С библиотекой всех скриншотов можно ознакомится (посмотреть) [здесь](http://steamcommunity.com/id/andre_y_ru/screenshots/). 
 
 
-[&laquo; Сталкер - Закон Дегтярёва.](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2015/08/19/stalker.md) | 
+[&laquo; Сталкер - Закон Дегтярёва.](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2015/08/19/stalker.md) | [Анджей Сапковский - Башня ласточки &raquo;](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2015/09/30/bachna-lastochki.md) 
 
 © Emelyanenko &middot; 2014-2015 · копировать нужно правильно · репозиторий на [github](https://github.com) · отдельное спасибо [Octopress](http://octopress.org)            
 
