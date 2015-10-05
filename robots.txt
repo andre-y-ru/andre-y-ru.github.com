@@ -11,6 +11,7 @@ Disallow: /javascripts/
 Host: andre-y-ru.github.io
 #Страници для индексирования роботом
 Sitemap: http://andre-y-ru.github.io/index.html
+Sitemap: http://andre-y-ru.github.io/peges/2/index.html
 Sitemap: http://andre-y-ru.github.io/archives/archive.html
 Sitemap: http://andre-y-ru.github.io/p/2014/12/30/ko-mne-v-dom-prichol-tux.html
 Sitemap: http://andre-y-ru.github.io/p/2015/03/16/musik-utra.html
@@ -23,4 +24,5 @@ Sitemap: http://andre-y-ru.github.io/p/2015/05/23/holohov.html
 Sitemap: http://andre-y-ru.github.io/p/2015/08/19/stalker.html
 Sitemap: http://andre-y-ru.github.io/archives/categories/my-day/archive.html
 Sitemap: http://andre-y-ru.github.io/archives/categories/games/archive.html
+Sitemap: http://andre-y-ru.github.io/p/2015/08/30/witcher-end.html
 #Links
