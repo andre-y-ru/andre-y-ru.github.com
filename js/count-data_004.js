@@ -1,0 +1,5 @@
+var DISQUSWIDGETS;
+
+if (typeof DISQUSWIDGETS != 'undefined') {
+    DISQUSWIDGETS.displayCount({"text":{"and":"\u0438","comments":{"zero":"0","multiple":"<b>{num}<\/b>","one":"<b>1<\/b>"}},"counts":[{"id":"http:\/\/p.umputun.com\/2015\/09\/09\/pierieiezd-opiat\/","comments":37},{"id":"http:\/\/p.umputun.com\/2014\/04\/05\/tokumx-testing\/","comments":1},{"id":"http:\/\/p.umputun.com\/2014\/05\/30\/zhizn-s-ghibridnym-fusion-drive\/","comments":12},{"id":"http:\/\/p.umputun.com\/2015\/07\/05\/post-ghnieva\/","comments":29},{"id":"http:\/\/p.umputun.com\/2013\/12\/19\/ieshchie-odin-ubiitsa-dropbox\/","comments":3},{"id":"http:\/\/p.umputun.com\/2014\/08\/12\/svoi-sobstviennyi-vpn-za-3-minuty\/","comments":194},{"id":"http:\/\/p.umputun.com\/2014\/05\/02\/amazon-fire-tv-piervyie-viepachtlieniia\/","comments":24},{"id":"http:\/\/p.umputun.com\/2015\/09\/11\/ghost-buster-docker\/","comments":90},{"id":"http:\/\/p.umputun.com\/2014\/09\/07\/remote-backup-mac\/","comments":40},{"id":"http:\/\/p.umputun.com\/2014\/12\/31\/lions-around-us\/","comments":4}]});
+}
