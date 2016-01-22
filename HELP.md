@@ -21,6 +21,15 @@ HELP
 9. git help <!-- помощь? -->
 ```
 
+Конфигурация с Git!
+-------------------
+Настройка коммитов, ключа ssh.
+```bash
+1. git config --global user.name "Firstname Lastname" <!-- логин -->
+2. git config --global user.email "email@example.com" <!-- почта -->
+3. ssh-keygen -t rsa -C "your_email@youremail.com" <!-- генирация rsa -->
+```
+
 Хитрости с Git
 --------------
 Немного хитростей.
