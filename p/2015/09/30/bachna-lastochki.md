@@ -21,7 +21,7 @@
 ![image](../../../../img/smech/lastochka3.jpg)
 
 
-[&laquo; Ведьмак - конец Дикой охоте.](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2015/08/30/witcher-end.md) | 
+[&laquo; Ведьмак - конец Дикой охоте.](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2015/08/30/witcher-end.md) | [Метро 2035 - жизнь за гранью фантазии &raquo;](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2016/04/16/Metro-2035.md) 
 
 © Emelyanenko &middot; 2014-2015 · копировать нужно правильно · репозиторий на [github](https://github.com)           
 
