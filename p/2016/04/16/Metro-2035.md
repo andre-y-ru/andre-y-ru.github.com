@@ -34,4 +34,4 @@
 
 [&laquo; Анджей Сапковский - Башня ласточки](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2015/09/30/bachna-lastochki.md) | [Дидюля - поход на концерт в Ростовской филармонии &raquo;](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2017/04/25/didulya.md) 
 
-© Emelyanenko &middot; 2014-2016 · копировать нужно правильно · репозиторий на [github](https://github.com)       
+© Emelyanenko &middot; 2014-2018 · копировать нужно правильно · репозиторий на [github](https://github.com)       

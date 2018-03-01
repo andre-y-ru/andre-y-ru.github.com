@@ -28,6 +28,6 @@
 
 
 
-[&laquo; Метро 2035 - жизнь за гранью фантазии](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2016/04/16/Metro-2035.md) | 
+[&laquo; Метро 2035 - жизнь за гранью фантазии](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2016/04/16/Metro-2035.md) | [Адыгея - путешествие в один конец или туда и обратно &raquo;](https://github.com/andre-y-ru/andre-y-ru.github.com/blob/master/p/2018/02/23/adgeay.md)
 
-© Emelyanenko &middot; 2014-2016 · копировать нужно правильно · репозиторий на [github](https://github.com)       
+© Emelyanenko &middot; 2014-2018 · копировать нужно правильно · репозиторий на [github](https://github.com)       
