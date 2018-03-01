@@ -11,7 +11,7 @@
 **И в путь, дорогие друзья!**
 
 
-- [Ланго-Наки](https://ru.wikipedia.org/wiki/Лаго-Наки) - wiki справка;
+- [Лаго-Наки](https://ru.wikipedia.org/wiki/Лаго-Наки) - wiki справка;
 - [Яндекс.Карты](https://yandex.ru/maps/?text=%D0%B0%D0%B4%D1%8B%D0%B3%D0%B5%D1%8F%20%D0%B3%D0%BE%D1%80%D1%8B%20%D0%BB%D0%B0%D0%B3%D0%BE%D0%BD%D0%B0%D0%BA%D0%B8%20wiki&source=serp_navig&mode=search&sll=40.305296%2C44.267462&ol=biz&oid=79853241012&sspn=1.009369%2C0.415935&sctx=ZAAAAAgCEAAaKAoSCckdNpGZPUZAEfUsCOV9YEhAEhIJCD4GK061zD8RLJ56pMFtuT8iBAABAgMoBTABOPXrsZao4NjTMUDqhwZIAVXg9TE%2FWABqAnJ1cAA%3D&ll=40.317655%2C44.252658&z=11) - место на карте.                 
 
 Есть что сказать!
