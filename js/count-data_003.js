@@ -1,0 +1,5 @@
+var DISQUSWIDGETS;
+
+if (typeof DISQUSWIDGETS != 'undefined') {
+    DISQUSWIDGETS.displayCount({"text":{"and":"\u0438","comments":{"zero":"0","multiple":"<b>{num}<\/b>","one":"<b>1<\/b>"}},"counts":[{"id":"http:\/\/p.umputun.com\/2013\/09\/16\/piervyie-vpiechatlieniia-ot-parallels-access\/","comments":26},{"id":"http:\/\/p.umputun.com\/2013\/01\/01\/radio-on-pi\/","comments":45},{"id":"http:\/\/p.umputun.com\/2012\/12\/20\/diletant-ru-letter\/","comments":9},{"id":"http:\/\/p.umputun.com\/2013\/06\/05\/v-poiskakh-prostoty-listov-zadach-kuda-podatsa\/","comments":52},{"id":"http:\/\/p.umputun.com\/2012\/12\/28\/raspberry-pi\/","comments":26},{"id":"http:\/\/p.umputun.com\/2013\/03\/26\/seafile-dlia-domashniegho-oblaka\/","comments":15},{"id":"http:\/\/p.umputun.com\/2012\/12\/30\/uwp-show-1\/","comments":22},{"id":"http:\/\/p.umputun.com\/2013\/09\/13\/biezopasnoie-proghrammirovaniie\/","comments":11},{"id":"http:\/\/p.umputun.com\/2013\/06\/18\/ieshchie-odno\/","comments":14},{"id":"http:\/\/p.umputun.com\/2013\/02\/06\/drops-from-me\/","comments":4}]});
+}

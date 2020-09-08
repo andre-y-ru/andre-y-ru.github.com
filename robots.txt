@@ -1,10 +1,30 @@
 ﻿#Поисковой робот
 User-agent: Yandex
 #Запрешённые дериктории для индексирования
+Disallow: /.git/
 Disallow: /js/
+Disallow: /player/
+Disallow: /img/
 Disallow: /css/
-Disallow: /images/
 #Основной хост, зеркало
-Host: 
+Host: andre-y-ru.github.io
 #Страници для индексирования роботом
-Sitemap: http://.com
+Sitemap: http://andre-y-ru.github.io/index.html
+Sitemap: http://andre-y-ru.github.io/peges/2/index.html
+Sitemap: http://andre-y-ru.github.io/archives/archive.html
+Sitemap: http://andre-y-ru.github.io/p/2014/12/30/ko-mne-v-dom-prichol-tux.html
+Sitemap: http://andre-y-ru.github.io/p/2015/03/16/musik-utra.html
+Sitemap: http://andre-y-ru.github.io/p/2014/07/23/pochemu-nightly.html
+Sitemap: http://andre-y-ru.github.io/p/2014/07/16/my-logos.html
+Sitemap: http://andre-y-ru.github.io/p/2014/02/27/the-elder-scrolls.html
+Sitemap: http://andre-y-ru.github.io/p/2014/02/24/planeta-dinozavrov.html
+Sitemap: http://andre-y-ru.github.io/p/2015/07/03/witcher.html
+Sitemap: http://andre-y-ru.github.io/p/2015/05/23/holohov.html
+Sitemap: http://andre-y-ru.github.io/p/2015/08/19/stalker.html
+Sitemap: http://andre-y-ru.github.io/archives/categories/my-day/archive.html
+Sitemap: http://andre-y-ru.github.io/archives/categories/games/archive.html
+Sitemap: http://andre-y-ru.github.io/p/2015/08/30/witcher-end.html
+Sitemap: http://andre-y-ru.github.io/p/2015/09/30/bachna-lastochki.html
+Sitemap: http://andre-y-ru.github.io/p/2017/04/25/didulya.html
+Sitemap: http://andre-y-ru.github.io/p/2018/02/23/adgeay.html
+#Links
